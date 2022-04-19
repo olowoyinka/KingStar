@@ -929,7 +929,7 @@ p {
     .about-title .welcome {
       font-size: 16px; } }
 .about-title .title {
-  padding-top: 10px;
+  padding-top: 90px;
   font-weight: 400;
   font-size: 32px; }
   @media (max-width: 767px) {
@@ -937,6 +937,14 @@ p {
       font-size: 24px; } }
   .about-title .title span {
     font-weight: 700; }
+
+
+
+      @media (max-width: 767px) {
+        .about-area-2 {
+          margin-top:45em; } }
+
+
 
 .single-counter .counter-shape {
   width: 55px; }
